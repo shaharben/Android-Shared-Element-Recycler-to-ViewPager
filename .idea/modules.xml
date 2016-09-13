@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/advancedFragmentTransition.iml" filepath="$PROJECT_DIR$/advancedFragmentTransition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/advancedFragmentTransitionWithViewPager.iml" filepath="$PROJECT_DIR$/advancedFragmentTransitionWithViewPager.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
